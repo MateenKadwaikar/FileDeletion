@@ -1,0 +1,26 @@
+{
+  "name": "filedeletion",
+  "version": "1.0.0",
+  "description": "To delete files from the specific directory.",
+  "main": "app.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateenKadwaikar/FileDeletion.git"
+  },
+  "keywords": [
+    "fileDeletion"
+  ],
+  "author": "Mateen Kadwaikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateenKadwaikar/FileDeletion/issues"
+  },
+  "homepage": "https://github.com/MateenKadwaikar/FileDeletion#readme"
+}
