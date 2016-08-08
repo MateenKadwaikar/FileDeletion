@@ -17,6 +17,5 @@ To delete files from the specific directory and the extension.
 
 npm install
 
-npm install prompt
 
-Open command prompt with the current folder and then type node app.js, it will ask for the "PATH" from where you have to delete the file  and "Extension" which file to be deleted. 
+Open command prompt with the current folder and then type "node app.js", it will ask for the "PATH" from where you have to delete the file  and "Extension" which file to be deleted. 
